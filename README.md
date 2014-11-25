@@ -1,6 +1,7 @@
 check-hdfs-stat
 ===============
 usage:check_hdfs_stat.rb [options] -w warnning -c critical,-h for help
+
     -d                               check hdfs disk urate
     -u                               check Under replicated blocks num
     -r                               check Blocks with corrupt replicas num
