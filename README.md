@@ -1,5 +1,6 @@
 check-hdfs-stat
 ===============
+check hdfs stat for nagios ex.
 usage:check_hdfs_stat.rb [options] -w warnning -c critical,-h for help
 
     -d                               check hdfs disk urate
